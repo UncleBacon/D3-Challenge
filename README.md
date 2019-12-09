@@ -11,8 +11,8 @@
     <h2>Directories</h2>
 <ol>
       <li><h3>CSS</h3></li>
-        <ul><li><p>D3Style.css:</li></p><br>
-         <li> style sheet for d3 elements</li></ul>
+        <ul><li><p>D3Style.css:</li></p></ul><br>
+            -style sheet for d3 elements
         <ul><li><p>style.css:</ul></li></p><br>
           style sheet for html elements
       <li><h3>Data</h3></li>
