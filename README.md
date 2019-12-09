@@ -13,7 +13,7 @@
       <li><h3>CSS</h3></li>
         <ul><li><h4>D3Style.css:</li></h4></ul><br>
             -style sheet for d3 elements
-        <ul><li><p>style.css:</ul></li></p><br>
+        <ul><li><h4>style.css:</h4></li></ul><br>
           style sheet for html elements
       <li><h3>Data</h3></li>
         <ul><li><h4>data.csv</h4></li></ul><br>
@@ -23,7 +23,7 @@
           - javascript file to be imported into HTML to run dynamic elements and display data 
 </ol>
 
-<h2>FIles</h2>
+<h2>Files</h2>
 <ol>
       <li><h3>Index</h3></li>
     <ul><li><h4>Main HTML file</h4></li></ul>
