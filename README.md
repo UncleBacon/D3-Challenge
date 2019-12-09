@@ -11,15 +11,15 @@
     <h2>Directories</h2>
 <ol>
       <li><h3>CSS</h3></li>
-        -d3Style.css:<br>
+        <ul><li><p>D3Style.css:</ul></li></p><br>
           style sheet for d3 elements
-        -style.css:<br>
+        <ul><li><p>style.css:</ul></li></p><br>
           style sheet for html elements
       <li><h3>Data</h3></li>
-        -data.csv<br>
+        <ul><li><p>data.csv</ul></li></p><br>
           -csv file imported using D3
       <li><h3>JS</h3></li>
-        -app.js<br>
+        <ul><li><p>app.js</ul></li></p><br>
           - javascript file to be imported into HTML to run dynamic elements and display data 
 </ol>
 
