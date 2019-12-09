@@ -1,5 +1,4 @@
 # D3-Challenge
-<h2>D3 homework</h2>
 
 <a href ="https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" >
 <img src = "https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" alt = "plot gif"></a>
@@ -11,7 +10,13 @@
 <h2>To run Dynamic Website</h2>
 <ol>
       <li> Clone Repository</li>
-      <li>Open html with live server</li>
+      <li>Open html with live server
+           <ol>
+                  <li> In gitbash terminal navigate to D3-Challenge directory with <strong>Index.html</strong>.</li>
+                  <li>Ensure Python is installed and type  <strong>python -m http.server</strong></li>
+                  <li> Open web browser and go to <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a></li>
+            </ol>
+      </li>
       <li>Select axis to see chane in data</li>
 </ol>
       
