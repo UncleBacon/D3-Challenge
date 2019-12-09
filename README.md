@@ -8,15 +8,16 @@
 
 <p>By clicking on the different axis titles the graph changes to show the relationship between the existing axis and the newly selected axis.</p>
 
-<h2>Files and Directories</h2>
+
 <ol>
   <li>
+    <h2>Files and Directories</h2>
     <ul>
       <li><h3>CSS</h3></li>
-        -d3Style.css
-          -style sheet for d3 elements
-        -style.css<br>
-          - style sheet for html elements
+        -d3Style.css:<br>
+          style sheet for d3 elements
+        -style.css:<br>
+          style sheet for html elements
       <li><h3>data</h3></li>
         -data.csv<br>
           -csv file imported using D3
