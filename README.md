@@ -8,17 +8,23 @@
 
 <p>By clicking on the different axis titles the graph changes to show the relationship between the existing axis and the newly selected axis.</p>
 
-    <h2>Files and Directories</h2>
+    <h2>Directories</h2>
 <ol>
       <li><h3>CSS</h3></li>
         -d3Style.css:<br>
           style sheet for d3 elements
         -style.css:<br>
           style sheet for html elements
-      <li><h3>data</h3></li>
+      <li><h3>Data</h3></li>
         -data.csv<br>
           -csv file imported using D3
-      <li><h3>js</h3></li>
+      <li><h3>JS</h3></li>
         -app.js<br>
           - javascript file to be imported into HTML to run dynamic elements and display data 
+</ol>
+
+<h2>FIles</h2>
+<ol>
+      <li><h3>Index</h3></li>
+    <ul><li><p>Main HTML file</p></li></ul>
 </ol>
