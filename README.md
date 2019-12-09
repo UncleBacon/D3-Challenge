@@ -8,7 +8,7 @@
 
 <p>By clicking on the different axis titles the graph changes to show the relationship between the existing axis and the newly selected axis.</p>
 
-    <h2>Directories</h2>
+<h2>Directories</h2>
 <ol>
       <li><h3>CSS</h3></li>
         <ul><li><h4>D3Style.css:</li></h4></ul><br>
