@@ -8,11 +8,8 @@
 
 <p>By clicking on the different axis titles the graph changes to show the relationship between the existing axis and the newly selected axis.</p>
 
-
-<ol>
-  <li>
     <h2>Files and Directories</h2>
-    <ul>
+<ol>
       <li><h3>CSS</h3></li>
         -d3Style.css:<br>
           style sheet for d3 elements
@@ -24,6 +21,4 @@
       <li><h3>js</h3></li>
         -app.js<br>
           - javascript file to be imported into HTML to run dynamic elements and display data 
-    </ul
-  </li>
 </ol>
