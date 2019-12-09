@@ -15,13 +15,13 @@
       <li><h3>CSS</h3></li>
         -d3Style.css
           -style sheet for d3 elements
-        -style.css
+        -style.css<br>
           - style sheet for html elements
       <li><h3>data</h3></li>
-        -data.csv
+        -data.csv<br>
           -csv file imported using D3
       <li><h3>js</h3></li>
-        -app.js
+        -app.js<br>
           - javascript file to be imported into HTML to run dynamic elements and display data 
     </ul
   </li>
