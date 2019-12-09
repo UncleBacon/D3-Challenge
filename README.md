@@ -3,7 +3,7 @@
 <a href ="https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" >
 <img src = "https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" alt = "plot gif"></a>
 
-<p>This homework uses scalar vector graphics in D3.js to generate sutom dynamic graphs based on user input and a csv file. The dataset explores the relationhip between three health indicators and three socioeconomic indicators on the populations of different states.</p>
+<p>This homework uses scalar vector graphics in D3.js to generate custom dynamic graphs based on user input and a csv file. The dataset explores the relationhip between three health indicators and three socioeconomic indicators on the populations of different states.</p>
 
 <p>By clicking on the different axis titles the graph changes to show the relationship between the existing axis and the newly selected axis.</p>
 
